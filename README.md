@@ -5,7 +5,7 @@ Sou estudante de **Sistemas de Informação** e trabalho atualmente com **suport
 ## 🚀 Habilidades
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=dotnet&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
