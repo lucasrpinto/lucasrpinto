@@ -7,11 +7,10 @@ No meu GitHub, compartilho projetos de backend em APIs C# e de Ciência de Dados
 
 ## 🚀 Habilidades
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=dotnet&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Firebird](https://img.shields.io/badge/-Firebird-FF4500?logo=firebird&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-00CFFF?logo=icloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?logo=mysql&logoColor=white)
 
 ## 🎓 Formação
 Estudante de **Ciência de dados**, buscando sempre me aprofundar em novas tecnologias e práticas do desenvolvimento de software.
